@@ -1,0 +1,18 @@
+{
+    "name": "athletics/toggle-private-posts",
+    "description": "WP Admin Bar control to toggle private posts in current view.",
+    "homepage": "https://github.com/athletics/shadow-money",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Athletics",
+            "homepage": "http://athleticsnyc.com/"
+        },
+        {
+            "name": "Matthew Spencer",
+            "homepage": "https://matthewspencer.me/",
+            "role": "Developer"
+        }
+    ]
+}
